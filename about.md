@@ -2,6 +2,6 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-# About the Web Site
+## About the Web Site
