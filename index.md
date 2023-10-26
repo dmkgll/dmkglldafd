@@ -9,3 +9,6 @@ This site is divided into the following top-level categories:
   <li style="font-size:20px;"><a href="/links">Links</a></li>
     <li style="font-size:20px;"><a href="/aoe2">AOE2</a></li>
 </ul>
+
+---
+
