@@ -11,7 +11,7 @@ date: 25 October 2023
 
 ---
 
-## New
+## Lately
 
 {% for post in site.posts limit 10 %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
