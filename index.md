@@ -3,7 +3,7 @@ layout: default
 date: 25 October 2023
 ---
 
-<style>img{max-width:500px;}</style>
+<style>img{max-width:500px;} li{font-size:20px;}</style>
 
 ![dm](/img/homepage.jpeg)
 
