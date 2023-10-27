@@ -7,7 +7,7 @@ date: 25 October 2023
 
 ![dm](/img/homepage.jpeg)
 
-<pre>A Felon Under Various Laws</pre>
+["A Felon Under Various Laws!"](/)
 
 ---
 
