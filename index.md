@@ -3,7 +3,7 @@ layout: default
 date: 25 October 2023
 ---
 
-<style>img{max-width:500px;} li{font-size:20px;}</style>
+<style>img{max-width:500px;} </style>
 
 ![dm](/img/homepage.jpeg)
 
@@ -14,7 +14,7 @@ date: 25 October 2023
 The ten most recent things are listed below:
 
 {% for post in site.posts limit 10 %}
-  * [{{ post.title }}]({{ post.url }}) - {{ post.date | date_to_string }}
+  * {{ post.date | date: "%m-%d-%Y" }}:[{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 This site is divided into the following top-level categories:
