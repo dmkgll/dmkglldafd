@@ -3,7 +3,7 @@ layout: default
 date: 25 October 2023
 ---
 
-![dm](/site/homepage.jpeg)
+![dm](/site/img/homepage.jpeg)
 
 This site is divided into the following top-level categories:
 
