@@ -14,7 +14,7 @@ date: 25 October 2023
 The ten most recent things are listed below:
 
 {% for post in site.posts limit 10 %}
-  * {{ post.date | date: "%m-%d-%Y" }}:[{{ post.title }}]({{ post.url }})
+  * {{ post.date | date: "%m-%d-%Y" }}: [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 This site is divided into the following top-level categories:
