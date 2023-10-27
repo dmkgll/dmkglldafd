@@ -5,7 +5,7 @@ date: 25 October 2023
 
 <style>img{max-width:500px;}</style>
 
-![dm](/site/img/homepage.jpeg)
+![dm](/img/homepage.jpeg)
 
 (San Diego, 2018)
 
