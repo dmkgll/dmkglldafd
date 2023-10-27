@@ -13,6 +13,10 @@ date: 25 October 2023
 
 ## New
 
+{% for post in site.posts limit 10 %}
+  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+{% endfor %}
+
 This site is divided into the following top-level categories:
 
 <ul>
