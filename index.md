@@ -7,8 +7,6 @@ date: 25 October 2023
 
 ![dm](/img/homepage.jpeg)
 
-(San Diego, 2018)
-
 <pre>A Felon Under Various Laws</pre>
 
 ---
