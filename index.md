@@ -28,7 +28,3 @@ This site is divided into the following top-level categories:
   <li style="font-size:20px;"><a href="/aoe2">Books</a></li>
   <li style="font-size:20px;"><a href="/aoe2">Miscellaneous</a></li>
 </ul>
-
----
-
-## Changelog
