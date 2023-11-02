@@ -7,4 +7,4 @@ date: 25 October 2023
 
 [Nakamoto emails](/sn) most comprehensive collection of Satoshi Nakamoto's emails.
 
-[Operation Atlantis documents] only online collection documents from the 1960s attempt to create a libertarian island nation.
+[Operation Atlantis documents](/oa) only online collection of documents from the 1960s attempt to create a libertarian island nation.
